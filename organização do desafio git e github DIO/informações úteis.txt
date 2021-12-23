@@ -1,0 +1,3 @@
+para instalar o git em uma distribuição baseada em debian, abra o terminal e digite:
+
+$ apt-get install git
